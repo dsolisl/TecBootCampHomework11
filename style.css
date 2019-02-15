@@ -1,0 +1,50 @@
+body{
+    background-color: lightgrey;
+}
+.dropdown-toggle {
+    background-color: transparent;
+    border-color: #fff;
+    border-style: solid;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+  }
+
+.navbar-brand{
+
+    float: right;
+    margin-right: 98px;
+    color: white,
+     
+}
+
+
+
+
+.main{
+    background-color: white;
+}
+h1{
+    color: #00b3b3;
+    text-align: left;
+    font-weight: bold;
+    font-size: 25;
+}
+
+h2{
+    color: #00b3b3;
+    text-align: left;
+    font-size: 20;
+    
+}
+
+.space{
+    height: 75px;
+}
+
+.list{
+    width: 400px;
+    height: auto;
+    align-self: left;
+}
+
